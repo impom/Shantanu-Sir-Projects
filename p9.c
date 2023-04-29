@@ -1,4 +1,3 @@
-//Swapping Values without using extra variable
 #include <stdio.h>
 main (){ float a,b,c,avg;
 printf("Enter Three Numbers \n");
