@@ -4,7 +4,7 @@ int main(){
   i=1;
   while(i<=10){
     s=i*i;
-    printf("%d",s);
+    printf("%d,",s);
     i++;
   }
 return 0;  
