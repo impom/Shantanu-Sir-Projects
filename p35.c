@@ -5,7 +5,7 @@ int main(){
   printf("Enter the numbers : ");
   for(i=1;i<=10;i++){
     scanf("%d",&n);
-    if(n%2===0)
+    if(n%2==0)
       ev++;
     else
       odd++;
