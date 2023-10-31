@@ -7,7 +7,7 @@ int main(){
   for(i=1;i<=n;i++){
     f=1;
     for(j=1;j<=i;j++)
-      {f=f*i;}
+      {f=f*j;}
     s=s+f;
   }
   printf("The Sum is %d",s);
